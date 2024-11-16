@@ -33,7 +33,7 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
-  m_LockedProperties: 
+  m_LockedProperties: _Ripple_Density
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -63,7 +63,7 @@ Material:
     - _Wave_Scale: 0.001
     - _Wave_Speed: 1
     m_Colors:
-    - _Base_Color: {r: 0, g: 0.39926782, b: 0.46091634, a: 1}
+    - _Base_Color: {r: 0.011279307, g: 0.32193133, b: 0.55795145, a: 1}
     - _Foam_Color: {r: 1.54717, g: 1.54717, b: 1.54717, a: 1}
-    - _Ripple_Color: {r: 0.5333334, g: 1.458828, b: 1.976471, a: 0}
+    - _Ripple_Color: {r: 0.33261257, g: 1.2235606, b: 2.8876822, a: 0}
   m_BuildTextureStacks: []
