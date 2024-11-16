@@ -60,8 +60,8 @@ Material:
     - _Ripple_Density: 60
     - _Ripple_Silmness: 7
     - _Ripple_Speed: 2
-    - _Wave_Scale: 0.2
-    - _Wave_Speed: 0.1
+    - _Wave_Scale: 0.001
+    - _Wave_Speed: 1
     m_Colors:
     - _Base_Color: {r: 0, g: 0.39926782, b: 0.46091634, a: 1}
     - _Foam_Color: {r: 1.54717, g: 1.54717, b: 1.54717, a: 1}
