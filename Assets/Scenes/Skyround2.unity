@@ -850,16 +850,16 @@ RectTransform:
   m_GameObject: {fileID: 79322605}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1273974, y: 0.1273974, z: 0.1273974}
+  m_LocalScale: {x: 0.18190995, y: 0.18190995, z: 0.18190995}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 20038406}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -188}
-  m_SizeDelta: {x: 2383.9998, y: 704.25775}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -319.07, y: -325.87}
+  m_SizeDelta: {x: 3579, y: 620.3833}
+  m_Pivot: {x: 0, y: 0}
 --- !u!114 &79322607
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -924,9 +924,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7f226203dd6c6af468eef5a2b7f5685e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 651541b5651464f4aa2435b7331570bb, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -954,9 +954,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6a6272e7f26aec4eaaa4e4369f74509, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultSprite: {fileID: 21300000, guid: 7f226203dd6c6af468eef5a2b7f5685e, type: 3}
-  hoverSprite: {fileID: 21300000, guid: 8f259793345229c45b3ffb6106166ca4, type: 3}
-  clickSprite: {fileID: 21300000, guid: b57283d4c12413d4193934614e98fd89, type: 3}
+  defaultSprite: {fileID: 21300000, guid: 651541b5651464f4aa2435b7331570bb, type: 3}
+  hoverSprite: {fileID: 21300000, guid: dcaf7e587f7e7d841888ce3696b9464d, type: 3}
+  clickSprite: {fileID: 21300000, guid: c9495b1de934f594cbc094a4676d4e4d, type: 3}
   clickSpriteDuration: 0.2
   clickSound: {fileID: 8300000, guid: 9e18ca898b9fc4d4f8ba86981c2f1efa, type: 3}
 --- !u!1001 &103937629
@@ -8658,7 +8658,7 @@ GameObject:
   - component: {fileID: 589603462}
   - component: {fileID: 589603461}
   m_Layer: 0
-  m_Name: Audio Source
+  m_Name: Audio Source_Background Music
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8674,7 +8674,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 9f8149f9dad39f24a9d9fe469bf1f1a9, type: 3}
+  m_audioClip: {fileID: 8300000, guid: d6a92c823b31d21478b5faa0e237e853, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.788
   m_Pitch: 1
@@ -8896,16 +8896,16 @@ RectTransform:
   m_GameObject: {fileID: 600347176}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1273974, y: 0.1273974, z: 0.1273974}
+  m_LocalScale: {x: 0.2348525, y: 0.2348525, z: 0.2348525}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 20038406}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 203.98}
+  m_AnchoredPosition: {x: -320.94, y: 70.56}
   m_SizeDelta: {x: 2778.9998, y: 705.6054}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0, y: 0}
 --- !u!114 &600347178
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8970,9 +8970,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e93b2fa1986fe7142b9226dc1be4dd63, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3eed778e8b79193408fcf1771e1852d1, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -9000,9 +9000,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6a6272e7f26aec4eaaa4e4369f74509, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultSprite: {fileID: 21300000, guid: e93b2fa1986fe7142b9226dc1be4dd63, type: 3}
-  hoverSprite: {fileID: 21300000, guid: eb8b138541fa3004780037124acfeec7, type: 3}
-  clickSprite: {fileID: 21300000, guid: 23a1d5992edf5644e85f5228781c2285, type: 3}
+  defaultSprite: {fileID: 21300000, guid: 3eed778e8b79193408fcf1771e1852d1, type: 3}
+  hoverSprite: {fileID: 21300000, guid: 271e96bdcc6e8cb4fbc96b014d2b9143, type: 3}
+  clickSprite: {fileID: 21300000, guid: 425edd4700013d44692be0aa1effabcf, type: 3}
   clickSpriteDuration: 0.2
   clickSound: {fileID: 8300000, guid: 9e18ca898b9fc4d4f8ba86981c2f1efa, type: 3}
 --- !u!1 &612861998
@@ -42934,16 +42934,16 @@ RectTransform:
   m_GameObject: {fileID: 2026040904}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1273974, y: 0.1273974, z: 0.1273974}
+  m_LocalScale: {x: 0.1813367, y: 0.1813367, z: 0.1813367}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 20038406}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 11}
-  m_SizeDelta: {x: 4529.4727, y: 721}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -318.6, y: -130.85}
+  m_SizeDelta: {x: 3579, y: 620.3833}
+  m_Pivot: {x: 0, y: 0}
 --- !u!114 &2026040906
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43008,9 +43008,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b9c874f806599bf4ea06c9a39bbdd31b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2e589f55f48aecb478b4587deb15c9b7, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -43038,9 +43038,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6a6272e7f26aec4eaaa4e4369f74509, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultSprite: {fileID: 21300000, guid: b9c874f806599bf4ea06c9a39bbdd31b, type: 3}
-  hoverSprite: {fileID: 21300000, guid: 1d8b117d1b023ba45ba95dd87ab9dd6c, type: 3}
-  clickSprite: {fileID: 21300000, guid: 2df9515d759bdf84fae544efed6a44d8, type: 3}
+  defaultSprite: {fileID: 21300000, guid: 2e589f55f48aecb478b4587deb15c9b7, type: 3}
+  hoverSprite: {fileID: 21300000, guid: 4b2e4c42a674bde4aaf87424ba908281, type: 3}
+  clickSprite: {fileID: 21300000, guid: 54bcccfdb45b64941a2f7750ce8f39f4, type: 3}
   clickSpriteDuration: 0.2
   clickSound: {fileID: 8300000, guid: 9e18ca898b9fc4d4f8ba86981c2f1efa, type: 3}
 --- !u!4 &2030997358 stripped
