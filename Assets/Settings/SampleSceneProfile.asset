@@ -160,7 +160,7 @@ MonoBehaviour:
     m_Value: 0
   saturation:
     m_OverrideState: 1
-    m_Value: 6
+    m_Value: 2
 --- !u!114 &5719593705949800699
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -185,10 +185,10 @@ MonoBehaviour:
     m_Value: {x: 0.99626976, y: 0.99720204, z: 1, w: 0}
   shadowsStart:
     m_OverrideState: 0
-    m_Value: 0
+    m_Value: 0.3
   shadowsEnd:
     m_OverrideState: 0
-    m_Value: 0.3
+    m_Value: 1
   highlightsStart:
     m_OverrideState: 0
     m_Value: 0.55
