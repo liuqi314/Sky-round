@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Skyround1.unity
+    guid: 48d9fceeff22b0249b467793363ec370
+  - enabled: 1
     path: Assets/Scenes/Skyround2.unity
     guid: 2fe2966b3ec5e32488a05f5caaf57003
   m_configObjects: {}
